@@ -12,6 +12,7 @@ The program simulates complex light behavior in a 3D world, capturing all of thi
 
 ![alt text](https://github.com/AnshumanD5/3D-Graphics-Demo/blob/master/3dscene.png)
 
-Used the "RayTracing in One Weekend" textbook as a guide.
+
+Used the "RayTracing in One Weekend" (by Peter Shirley, Trevor David Black, Steve Hollasch) textbook as a guide.
 
 [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
