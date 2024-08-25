@@ -9,4 +9,4 @@ This project demonstrates the implementation of a 3D graphics engine built entir
 - Customizable scenery
 
 The program simulates complex light behavior in a 3D world, capturing all of this in a final rendered image.
-https://github.com/AnshumanD5/3D-Graphics-Demo/blob/master/output.ppm
+
